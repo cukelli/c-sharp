@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lqQ9/AcWJ3OfYbdx7oZsUlfz/XGPYYSwWpMm3LfOnid1iiatBXIqznLcflgzHEdkdydHoROfR7sIsC74+5D48g==",
+  "dgSpecHash": "TTJqFizSp85p5sU08PbeASUlJKIqYhkv6u8YrKumNKcELbqaEN+9/+Uuj9mprF9pNMWtjXOtrAAbjY3P8PjxZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anast\\Desktop\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\anast\\Documents\\Programiranje\\c sharp\\NumberGuesser\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
